@@ -1,0 +1,13 @@
+html, body {
+    font-size: 14px;
+    font-family: 'TeX Gyre Schola', STSong;
+}
+
+code {
+    font-family: Monaco;
+    line-height: 1.375em;
+}
+
+.hljs-comment {
+    font-family: 'TeX Gyre Schola', StKaiti;
+}
